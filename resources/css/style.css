@@ -5,7 +5,11 @@ body {
 }
 .imgHeader {
   background-image: url("images/the-flatiron-building.png");
+  background-position: center;
   color: white;
+}
+.links {
+  font-size: 18px;
 }
 /* Unvistited link */
 a:link {
@@ -26,4 +30,8 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+#footer {
+  text-align: left;
+  font-size: 11px;
 }
